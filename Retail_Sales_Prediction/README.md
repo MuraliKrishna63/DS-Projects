@@ -69,20 +69,6 @@ py src/predict.py
 
 ---
 
-## Notes
-- We used `load_data()` function across all scripts for consistency.
-- Data file `online_retail.csv` is placed directly in `src/` folder (no `data/` subfolder).
-- Project is lightweight and ready for **GitHub** upload.
-
----
-
-## Next Steps
-- (Optional) Model hyperparameter tuning.
-- (Optional) Deployment using Flask/FastAPI.
-- Upload to GitHub and add version control!
-
----
-
 Author: P. Murali Krishna 
 Project: Retail Sales Prediction
 
